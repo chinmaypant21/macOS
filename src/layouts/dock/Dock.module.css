@@ -1,0 +1,14 @@
+.dock-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 1%;
+    width: 100%;
+
+}
+
+.dock{
+    height: 4em;
+    background-color: red;
+}
